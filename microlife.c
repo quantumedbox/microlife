@@ -9,6 +9,7 @@
 // todo: retrieve clock time to implement 'slowed' execution
 // todo: ways to modify speed
 // todo: edit mode (by toggling single cell under cursor that moves by arrow keys)
+// todo: restore cursor after execution
 
 #include "nocrt0/nocrt0c.c"
 
